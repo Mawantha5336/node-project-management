@@ -55,7 +55,7 @@ npm start
 
 ## Author
 
-- [**Truly Mittal**](https://trulymittal.com)
+- [**Mawantha.D**](https://github.com/Mawantha5336)
 
 ## Contribute
 
